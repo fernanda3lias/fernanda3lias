@@ -1,5 +1,6 @@
 # Hey, there! 👻
 **I'm Fernanda** - I'm a solutions developer and physics student. I'm interested in the development of new technologies.
+
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,py)](https://skillicons.dev)<br/>
 
 <!--
