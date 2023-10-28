@@ -4,7 +4,7 @@
 <!-- Girl dancing GIF -->
 <div>
   <a href="https://github.com/fernanda3lias">
-  <img align='right' src='https://media.tenor.com/jzmJrvUb_-wAAAAi/shigure-goddess.gif' width='400px'>
+  <img align='right' src='https://media.tenor.com/jzmJrvUb_-wAAAAi/shigure-goddess.gif' width='800px'>
 </div> 
 
 <!-- Social media links -->
