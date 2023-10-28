@@ -12,4 +12,9 @@
 
 **I'm Fernanda** - Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills.
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?fernanda3liasi&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <!--**fernanda3lias/fernanda3lias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
