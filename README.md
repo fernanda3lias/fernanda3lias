@@ -2,7 +2,7 @@
 <div>
 <a href="https://github.com/fernanda3lias">
 <img align='right' src='https://media.tenor.com/svrKSuwrhOwAAAAi/rumia-dance.gif' width='"'>
-</div>
+</div> 
 
 <div>
 <a href = "https://discord.gg/pAhsE5xz"><img height=20px; loading="lazy" src="https://img.shields.io/badge/-Discord-9146FF?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -24,11 +24,6 @@
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda3lias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-.
-.
-.
-.
-.
 
 ![Snake animation](https://github.com/fernanda3lias/fernanda3lias/blob/output/github-contribution-grid-snake.svg)
 
