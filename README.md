@@ -12,7 +12,7 @@
 
 <h3>About me ≽^•⩊•^≼</h3>
 
-**I'm Fernanda** - Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills.
+**I'm Fernanda** - Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills. 💻
 
 <div>
 <a href="https://github.com/fernanda3lias">
