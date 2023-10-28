@@ -15,7 +15,7 @@
 
 **I'm Fernanda** - Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills. 💻
 
-## 🚀 Technologies
+<h3>🚀 Technologies</h3>
 - Always learning new things!
 - **Python, C#**
 
