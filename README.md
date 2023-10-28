@@ -19,12 +19,12 @@
 <b>I'm Fernanda</b>- Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills. 💻
 </div>
 
+<!-- Technologies -->
+<div>
 <h3>Technologies</h3>
-
 - Always learning new things!
-- **Python, C#**
-
-<p>  </p>
+- <b>Python, C#</b>
+</div>
   
 <div>
 <a href="https://github.com/fernanda3lias">
