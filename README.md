@@ -16,7 +16,7 @@
 <!-- About me-->
 <div>
 <h2>About me ≽^•⩊•^≼</h2>
-<b>Fernanda</b> <p> - Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills. 💻</p>
+<b>I'm Fernanda</b>- Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills. 💻
 </div>
 
 <h3>Technologies</h3>
