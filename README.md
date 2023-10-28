@@ -8,6 +8,8 @@
 <a href="https://www.linkedin.com/in/fernanda3lias/" target="_blank"><img height=20px; loading="lazy" src="https://img.shields.io/badge/-LinkedIn-00AEFF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<h3>About me ≽^•⩊•^≼</h3>
+
 **I'm Fernanda** - Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills.
 
 <!--**fernanda3lias/fernanda3lias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
