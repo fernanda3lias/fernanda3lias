@@ -5,7 +5,8 @@
 </div>
 
 <div>
-<a href = "https://github.com/fernanda3lias"><img height=20px; loading="lazy" src="https://img.shields.io/badge/-GitHub-9146FF?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
+<a href = "https://discord.gg/pAhsE5xz"><img height=20px; loading="lazy" src="https://img.shields.io/badge/-Discord-9146FF?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href = "https://github.com/fernanda3lias"><img height=20px; loading="lazy" src="https://img.shields.io/badge/-GitHub-FF00CD?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
 <a href = "fernanda.eliasct@gmail.com"><img height=20px; loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/fernanda3lias/" target="_blank"><img height=20px; loading="lazy" src="https://img.shields.io/badge/-LinkedIn-00AEFF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
