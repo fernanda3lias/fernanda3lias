@@ -18,6 +18,8 @@
 ## 🚀 Technologies
 - Always learning new things!
 - **Python, C#**
+
+<p>  </p>
   
 <div>
 <a href="https://github.com/fernanda3lias">
