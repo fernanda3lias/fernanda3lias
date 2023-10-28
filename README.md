@@ -23,7 +23,7 @@
 <div>
 <h3>Technologies</h3>
 - Always learning new things!
-- <b>Python, C#</b>
+<b> - Python, C#</b>
 </div>
   
 <div>
