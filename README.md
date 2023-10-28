@@ -1,9 +1,11 @@
 # こんにちは！🍄
+<!-- Girl dancing GIF -->
 <div>
 <a href="https://github.com/fernanda3lias">
 <img align='right' src='https://media.tenor.com/svrKSuwrhOwAAAAi/rumia-dance.gif' width='400px'>
 </div> 
 
+<!-- Social media links -->
 <div>
 <a href = "https://discord.gg/pAhsE5xz"><img height=20px; loading="lazy" src="https://img.shields.io/badge/-Discord-9146FF?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "https://github.com/fernanda3lias"><img height=20px; loading="lazy" src="https://img.shields.io/badge/-GitHub-FF00CD?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
@@ -11,9 +13,11 @@
 <a href="https://www.linkedin.com/in/fernanda3lias/" target="_blank"><img height=20px; loading="lazy" src="https://img.shields.io/badge/-LinkedIn-00AEFF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<!-- About me-->
+<div>
 <h2>About me ≽^•⩊•^≼</h2>
-
-**I'm Fernanda** - Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills. 💻
+<b>Fernanda</b> <p> - Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills. 💻</p>
+</div>
 
 <h3>Technologies</h3>
 
