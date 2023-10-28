@@ -1,7 +1,7 @@
 # こんにちは！🍄
 <div>
 <a href="https://github.com/fernanda3lias">
-<img align='right' src='https://media.tenor.com/svrKSuwrhOwAAAAi/rumia-dance.gif' width='"'>
+<img align='right' src='https://media.tenor.com/svrKSuwrhOwAAAAi/rumia-dance.gif' width='200px'>
 </div> 
 
 <div>
