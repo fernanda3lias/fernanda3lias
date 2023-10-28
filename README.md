@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/fernanda3lias/" target="_blank"><img height=20px; loading="lazy" src="https://img.shields.io/badge/-LinkedIn-00AEFF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<h2>About me</h2>
+<h2>About me ฅ՞•ﻌ•՞ฅ</h2>
 
 **I'm Fernanda** - Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills.
 
