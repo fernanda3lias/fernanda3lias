@@ -14,6 +14,10 @@
 
 **I'm Fernanda** - Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills. 💻
 
+## 🚀 Technologies
+- Always learning new things!
+- **Python, C#**
+  
 <div>
 <a href="https://github.com/fernanda3lias">
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda3lias&layout=compact&langs_count=7&theme=dracula"/>
