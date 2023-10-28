@@ -4,7 +4,7 @@
 <!-- Girl dancing GIF -->
 <div>
   <a href="https://github.com/fernanda3lias">
-  <img align='right' src='https://media.tenor.com/moaQHad4VcMAAAAi/ram-dance.gif' width='200px'>
+  <img align='right' src='https://media.tenor.com/z3uaokB8S7wAAAAi/anime-dancing.gif' width='200px'>
 </div> 
 
 <!-- Social media links -->
