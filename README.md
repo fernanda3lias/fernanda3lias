@@ -4,7 +4,7 @@
 <!-- Girl dancing GIF -->
 <div>
   <a href="https://github.com/fernanda3lias">
-  <img align='right' src='https://media.tenor.com/z3uaokB8S7wAAAAi/anime-dancing.gif' width='450px'>
+  <img align='right' src='' width='450px'>
 </div> 
 
 <!-- Social media links -->
@@ -36,20 +36,3 @@
   <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda3lias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<!-- Snake -->
-<div>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/fernanda3lias/fernanda3lias/blob/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</div>
