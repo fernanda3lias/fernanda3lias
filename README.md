@@ -1,5 +1,5 @@
 <!-- Main Title -->
-# こんにちは！🍄
+# Hi！🍄
 
 <!-- Girl dancing GIF -->
 <div>
@@ -17,7 +17,6 @@
 
 <!-- About me-->
 <div>
-  <h2>About me ≽^•⩊•^≼</h2>
   Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills. 
 </div>
 
