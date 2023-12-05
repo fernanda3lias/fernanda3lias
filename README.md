@@ -1,11 +1,5 @@
 <!-- Main Title -->
-# Hi！🍄
-
-<!-- Girl dancing GIF -->
-<div>
-  <a href="https://github.com/fernanda3lias">
-  <img align='right' src='' width='450px'>
-</div> 
+# Hi, I'm Fernanda！🍄
 
 <!-- Social media links -->
 <div>
@@ -19,6 +13,12 @@
 <div>
   Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills. 
 </div>
+
+<!-- Girl dancing GIF -->
+<div>
+  <a href="https://github.com/fernanda3lias">
+  <img align='right' src='' width='450px'>
+</div> 
 
 <!-- Technologies -->
 <div>
