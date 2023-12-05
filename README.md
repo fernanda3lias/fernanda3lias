@@ -1,5 +1,5 @@
 <!-- Main Title -->
-# Hi, I'm Fernanda！🍄
+# Hi, I'm Fernanda！
 
 <!-- About me-->
 <div>
