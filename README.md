@@ -3,7 +3,7 @@
 
 <!-- About me-->
 <div>
-  Solutions developer and physics student. I'm interested in learning new technologies and improving my programming skills. 
+  Solutions developer and physics student. 
 </div>
 <br>
 
