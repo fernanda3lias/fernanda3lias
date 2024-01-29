@@ -3,7 +3,7 @@
 
 <!-- About me-->
 <div>
-  Solutions developer and physics student. Used for storing study files.
+Used for storing study files.
 
 </div>
 <br>
