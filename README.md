@@ -1,7 +1,6 @@
 <!-- Main Title -->
-<!---
-# Hi, I'm Fernanda！
--->
+# Fernanda
+
 <!-- About me-->
 <div>
   Solutions developer and physics student. Used for storing study files.
