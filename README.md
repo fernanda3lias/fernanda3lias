@@ -3,7 +3,7 @@
 
 <!-- About me-->
 <div>
-Used for storing study files.
+Used for storing and sharing study files.
 
 </div>
 <br>
